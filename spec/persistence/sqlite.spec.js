@@ -1,3 +1,9 @@
+// Skip these tests on Windows (CI environment)
+if (process.platform === 'win32') {
+    describe.skip('sqlite persistence tests are skipped on Windows CI', () => {});
+    return;
+}
+
 const db = require('../../src/persistence/sqlite');
 const fs = require('fs');
 const location = process.env.SQLITE_DB_LOCATION || '/etc/todos/todo.db';
