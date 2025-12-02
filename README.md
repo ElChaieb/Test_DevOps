@@ -102,22 +102,26 @@ J'ai créé un fichier `Dockerfile` à la racine du projet contenant :
 
 ### Screenshots :
 
-<img src="https://imgur.com/45ZGeJj.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
-
-<img src="https://imgur.com/67E2DZV.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
-
-<img src="https://imgur.com/SjTXCTU.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
-
-<img src="https://imgur.com/2B6eV9h.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
-
-<img src="https://imgur.com/26eH9sp.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
-
-<img src="https://imgur.com/aqn11jg.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
-
-<img src="https://imgur.com/aqn11jg.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
-
-<img src="https://imgur.com/7DOZOwb.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+<img src="https://imgur.com/cXgxFoq.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
 
 <img src="https://imgur.com/9gZQQWr.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
 
-<img src="https://imgur.com/cXgxFoq.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+<img src="https://imgur.com/7DOZOwb.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+
+<img src="https://imgur.com/aqn11jg.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+
+<img src="https://imgur.com/aqn11jg.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+
+<img src="https://imgur.com/26eH9sp.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+
+<img src="https://imgur.com/2B6eV9h.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+
+<img src="https://imgur.com/SjTXCTU.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+
+<img src="https://imgur.com/67E2DZV.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+
+<img src="https://imgur.com/45ZGeJj.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+
+
+
+
