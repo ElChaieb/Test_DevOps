@@ -5,7 +5,8 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git 'https://github.com/ElChaieb/Test_DevOps.git'
+                // FIX: Explicitly specify the 'main' branch
+                git branch: 'main', url: 'https://github.com/ElChaieb/Test_DevOps.git'
             }
         }
 
