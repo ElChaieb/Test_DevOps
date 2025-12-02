@@ -102,22 +102,22 @@ J'ai créé un fichier `Dockerfile` à la racine du projet contenant :
 
 ### Screenshots :
 
-<img src="https://drive.google.com/file/d/1oF8JsoNBFOl1e-SLjjNcRuZ08Ce8MEoZ/view?usp=drive_link" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+<img src="https://imgur.com/45ZGeJj.png" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
 
-<img src="https://drive.google.com/file/d/18B7AzRc63ydM2r_IunMIdKjRcWQCH4m4/view?usp=drive_link" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+<img src="https://imgur.com/67E2DZV" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
 
-<img src="https://drive.google.com/file/d/1grezeAzt-7UpttaMtWSCZzoDahYQIBs5/view?usp=drive_link" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+<img src="https://imgur.com/SjTXCTU" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
 
-<img src="https://drive.google.com/file/d/18_He4GNGT-HK7uPRpSCO7V4Nvr9AGtZZ/view?usp=drive_link" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+<img src="https://imgur.com/2B6eV9h" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
 
-<img src="https://drive.google.com/file/d/1IgsNB248fu2bNlG5Ul83oKCqjpbSZt7c/view?usp=drive_link" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+<img src="https://imgur.com/26eH9sp" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
 
-<img src="https://drive.google.com/file/d/1IgsNB248fu2bNlG5Ul83oKCqjpbSZt7c/view?usp=drive_link" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+<img src="https://imgur.com/aqn11jg" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
 
-<img src="https://drive.google.com/file/d/1BD-jtQ9g3HFFFuKatcpRiRi0UcWVvA1K/view?usp=drive_link" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+<img src="https://imgur.com/aqn11jg" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
 
-<img src="https://drive.google.com/file/d/1SUeY_sMpTCHid4-5Oswx4iYLJhIfZnyB/view?usp=drive_link" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+<img src="https://imgur.com/7DOZOwb" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
 
-<img src="https://drive.google.com/file/d/185UpSvfKuf4GQqZpELs9-CQz0xM8pw56/view?usp=drive_link" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+<img src="https://imgur.com/9gZQQWr" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
 
-<img src="https://drive.google.com/file/d/1D40ve03TkyWvul8vXuMNdod61beeBcw7/view?usp=drive_link" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
+<img src="https://imgur.com/cXgxFoq" alt="Alt Text" width="1600" height="900" style="display: block; margin: 0 auto;">
